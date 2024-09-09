@@ -1,6 +1,6 @@
-# Pokédex
+# Pokédex Project start: 09-09-2024
 
-<u>Bei beendigung des Projekts:</u>
+_Bei beendigung des Projekts:_
 
 ## Inhalt
 
